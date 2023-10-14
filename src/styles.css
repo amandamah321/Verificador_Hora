@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*
+#8a307f
+#79a7d3
+#6883bc
+*/
+
+body {
+    background-color: #6883bc;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    height: 100%;
+}
+
+header {
+    color: white;
+    text-align: center;
+    margin: 2rem;
+}
+
+header h1 {
+    font-size: 3rem;
+}
+
+section {
+    background-color: white;
+    margin: 0 auto;
+    padding: 0.8rem;
+    width: 40%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #79a7d3ba;
+}
+
+#message {
+    text-align: center;
+    margin: 2rem;
+    font-size: 1.5rem;
+}
+
+#foto_container {
+    text-align: center;
+    padding-bottom: 2rem;
+    
+}
+
+#foto {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+    
+}
